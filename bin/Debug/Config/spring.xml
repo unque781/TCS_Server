@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<objects xmlns="http://www.springframework.net"
+         xmlns:db="http://www.springframework.net/database"
+         default-autowire="byType">
+
+    <db:provider id="dp" provider="Floware.MySql"
+                 connectionString="server=127.0.0.1;database=TCSV2;uid=root;pwd=admin;minpoolsize=3;"/>
+
+    <object type="Floware.NoSQL.MongoProvider, Floware4" init-method="Init">
+      <property name='IP' value='127.0.0.1'/>
+        <property name='Name' value='TCS2'/>
+        <property name='SafeMode' value='true'/>
+    </object>
+
+    <object id='Nss' type='Floware.SQL.NativeSqlSupport, Floware4'/>
+    <object type="Spring.Data.Core.AdoPlatformTransactionManager, Spring.Data"/>
+
+    <object type="TcsV2.Core.DAO.TcsAlarmDao,			TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsAlarmDefineDao,		TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsAppConfigDao,		TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsCarrierDao,			TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsCommandChgDao,		TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsCommandDao,			TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsSubCmdDao,			TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsHisAlarmDao,		TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsHisCommandDao,		TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsHisHostNakDao,		TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsHisPcUsageDao,		TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsHisSystemDao,		TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsHsmsConfigDao,		TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsHsmsEventDao,		TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsIODao,				TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsIODefineDao,		TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsMachineDao,			TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsSystemDao,			TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsUnitDao,			TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsUserDao,			TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsHisUserActionDao,   TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsHisUserLogonDao,	TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsCycleConfigDao,		TcsV2.Core" />
+    <object type="TcsV2.Core.DAO.TcsRouteDao,		TcsV2.Core" />
+
+    <object id="sql"      type="TCS.ServerV2.SqlManager, TCS.ServerV2" />
+  
+  
+    <object id="formMain" type="TCS.ServerV2.FormMain, TCS.ServerV2"   autowire="byName">
+      <property name="WAIT_VRP_OHS" value="600000" ></property>
+      <property name="WAIT_VRP_VEHICLE" value="300000" ></property>
+      <property name="WAIT_VRP_MOVEREQ" value="2000" ></property>
+	  <property name="WAIT_ALTERNATEUNIT_CMD" value="60000"></property>
+    </object>
+
+</objects>

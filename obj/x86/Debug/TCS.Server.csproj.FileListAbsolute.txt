@@ -1,0 +1,5 @@
+D:\Project\2016\Toptec\TCS\TCS.ServerV2\obj\x86\Debug\TCS.Server.csprojResolveAssemblyReference.cache
+D:\Project\2016\Toptec\TCS\TCS.ServerV2\obj\x86\Debug\TCS.Server.FormMain.resources
+D:\Project\2016\Toptec\TCS\TCS.ServerV2\obj\x86\Debug\TCS.Server.FormTest.resources
+D:\Project\2016\Toptec\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.Properties.Resources.resources
+D:\Project\2016\Toptec\TCS\TCS.ServerV2\obj\x86\Debug\TCS.Server.csproj.GenerateResource.Cache

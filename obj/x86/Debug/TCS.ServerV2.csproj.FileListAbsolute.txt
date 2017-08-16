@@ -1,0 +1,138 @@
+C:\Users\Administrator\Desktop\새 폴더\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\새 폴더\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.FormMain.resources
+C:\Users\Administrator\Desktop\새 폴더\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.FormTest.resources
+C:\Users\Administrator\Desktop\새 폴더\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\새 폴더\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\새 폴더\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.exe
+C:\Users\Administrator\Desktop\새 폴더\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.pdb
+D:\project\TCS\TCS.ServerV2\bin\Debug\Config\log4net-S.xml
+D:\project\TCS\TCS.ServerV2\bin\Debug\Config\log4net-P.xml
+D:\project\TCS\TCS.ServerV2\bin\Debug\Config\spring.xml
+D:\project\TCS\TCS.ServerV2\bin\Debug\main.ico
+D:\project\TCS\TCS.ServerV2\bin\Debug\Config\Map1.4.xlsx
+D:\project\TCS\TCS.ServerV2\bin\Debug\Config\Map1.5.xlsx
+D:\project\TCS\TCS.ServerV2\bin\Debug\Config\Map1.7.xlsx
+D:\project\TCS\TCS.ServerV2\bin\Debug\Config\Map1.6.xlsx
+D:\project\TCS\TCS.ServerV2\bin\Debug\Config\tcs.sfm
+D:\project\TCS\TCS.ServerV2\bin\Debug\TCS.ServerV2.exe.config
+D:\project\TCS\TCS.ServerV2\bin\Debug\TCS.ServerV2.exe
+D:\project\TCS\TCS.ServerV2\bin\Debug\TCS.ServerV2.pdb
+D:\project\TCS\TCS.ServerV2\bin\Debug\Common.Logging.dll
+D:\project\TCS\TCS.ServerV2\bin\Debug\Floware4.dll
+D:\project\TCS\TCS.ServerV2\bin\Debug\log4net.dll
+D:\project\TCS\TCS.ServerV2\bin\Debug\MongoDB.Bson.dll
+D:\project\TCS\TCS.ServerV2\bin\Debug\MongoDB.Driver.dll
+D:\project\TCS\TCS.ServerV2\bin\Debug\MySql.Data.dll
+D:\project\TCS\TCS.ServerV2\bin\Debug\Quartz.dll
+D:\project\TCS\TCS.ServerV2\bin\Debug\Spring.Core.dll
+D:\project\TCS\TCS.ServerV2\bin\Debug\Spring.Data.dll
+D:\project\TCS\TCS.ServerV2\bin\Debug\Spring.Web.dll
+D:\project\TCS\TCS.ServerV2\bin\Debug\TcsV2.Core.dll
+D:\project\TCS\TCS.ServerV2\bin\Debug\TcsV2.Core.pdb
+D:\project\TCS\TCS.ServerV2\bin\Debug\Floware4.xml
+D:\project\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.csprojResolveAssemblyReference.cache
+D:\project\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.FormMain.resources
+D:\project\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.FormTest.resources
+D:\project\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.Properties.Resources.resources
+D:\project\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.csproj.GenerateResource.Cache
+D:\project\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.exe
+D:\project\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.pdb
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Config\log4net-S.xml
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Config\log4net-P.xml
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Config\spring.xml
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\main.ico
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Config\Map1.4.xlsx
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Config\Map1.5.xlsx
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Config\Map1.7.xlsx
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Config\Map1.8.xlsx
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Config\Map1.6.xlsx
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Config\tcs.sfm
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\TCS.ServerV2.exe.config
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\TCS.ServerV2.exe
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\TCS.ServerV2.pdb
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Common.Logging.dll
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Floware4.dll
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\log4net.dll
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\MongoDB.Bson.dll
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\MongoDB.Driver.dll
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\MySql.Data.dll
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Quartz.dll
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Spring.Core.dll
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Spring.Data.dll
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Spring.Web.dll
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\TcsV2.Core.dll
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\TcsV2.Core.pdb
+D:\PCTeam\TCS\TCS.ServerV2\bin\Debug\Floware4.xml
+D:\PCTeam\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.csprojResolveAssemblyReference.cache
+D:\PCTeam\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.FormMain.resources
+D:\PCTeam\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.FormTest.resources
+D:\PCTeam\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.Properties.Resources.resources
+D:\PCTeam\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.csproj.GenerateResource.Cache
+D:\PCTeam\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.exe
+D:\PCTeam\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.pdb
+d:\TCS\TCS.ServerV2\bin\Debug\Config\log4net-S.xml
+d:\TCS\TCS.ServerV2\bin\Debug\Config\log4net-P.xml
+d:\TCS\TCS.ServerV2\bin\Debug\Config\spring.xml
+d:\TCS\TCS.ServerV2\bin\Debug\main.ico
+d:\TCS\TCS.ServerV2\bin\Debug\Config\Map1.4.xlsx
+d:\TCS\TCS.ServerV2\bin\Debug\Config\Map1.5.xlsx
+d:\TCS\TCS.ServerV2\bin\Debug\Config\Map1.7.xlsx
+d:\TCS\TCS.ServerV2\bin\Debug\Config\Map1.8.xlsx
+d:\TCS\TCS.ServerV2\bin\Debug\Config\Map1.6.xlsx
+d:\TCS\TCS.ServerV2\bin\Debug\Config\tcs.sfm
+d:\TCS\TCS.ServerV2\bin\Debug\TCS.ServerV2.exe.config
+d:\TCS\TCS.ServerV2\bin\Debug\TCS.ServerV2.exe
+d:\TCS\TCS.ServerV2\bin\Debug\TCS.ServerV2.pdb
+d:\TCS\TCS.ServerV2\bin\Debug\Common.Logging.dll
+d:\TCS\TCS.ServerV2\bin\Debug\Floware4.dll
+d:\TCS\TCS.ServerV2\bin\Debug\log4net.dll
+d:\TCS\TCS.ServerV2\bin\Debug\MongoDB.Bson.dll
+d:\TCS\TCS.ServerV2\bin\Debug\MongoDB.Driver.dll
+d:\TCS\TCS.ServerV2\bin\Debug\MySql.Data.dll
+d:\TCS\TCS.ServerV2\bin\Debug\Quartz.dll
+d:\TCS\TCS.ServerV2\bin\Debug\Spring.Core.dll
+d:\TCS\TCS.ServerV2\bin\Debug\Spring.Data.dll
+d:\TCS\TCS.ServerV2\bin\Debug\Spring.Web.dll
+d:\TCS\TCS.ServerV2\bin\Debug\TcsV2.Core.dll
+d:\TCS\TCS.ServerV2\bin\Debug\TcsV2.Core.pdb
+d:\TCS\TCS.ServerV2\bin\Debug\Floware4.xml
+d:\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.csprojResolveAssemblyReference.cache
+d:\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.FormMain.resources
+d:\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.FormTest.resources
+d:\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.Properties.Resources.resources
+d:\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.csproj.GenerateResource.Cache
+d:\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.exe
+d:\TCS\TCS.ServerV2\obj\x86\Debug\TCS.ServerV2.pdb
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Config\log4net-S.xml
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Config\log4net-P.xml
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Config\spring.xml
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\main.ico
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Config\Map1.4.xlsx
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Config\Map1.5.xlsx
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Config\Map1.7.xlsx
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Config\Map1.8.xlsx
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Config\Map1.6.xlsx
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Config\tcs.sfm
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\TCS.ServerV2.exe.config
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\TCS.ServerV2.exe
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\TCS.ServerV2.pdb
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Common.Logging.dll
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Floware4.dll
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\log4net.dll
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\MongoDB.Bson.dll
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\MongoDB.Driver.dll
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\MySql.Data.dll
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Quartz.dll
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Spring.Core.dll
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Spring.Data.dll
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Spring.Web.dll
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\TcsV2.Core.dll
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\TcsV2.Core.pdb
+d:\TCS\TCS.ServerV2 170727 B03수정중\bin\Debug\Floware4.xml
+d:\TCS\TCS.ServerV2 170727 B03수정중\obj\x86\Debug\TCS.ServerV2.csprojResolveAssemblyReference.cache
+d:\TCS\TCS.ServerV2 170727 B03수정중\obj\x86\Debug\TCS.ServerV2.FormMain.resources
+d:\TCS\TCS.ServerV2 170727 B03수정중\obj\x86\Debug\TCS.ServerV2.FormTest.resources
+d:\TCS\TCS.ServerV2 170727 B03수정중\obj\x86\Debug\TCS.ServerV2.Properties.Resources.resources
+d:\TCS\TCS.ServerV2 170727 B03수정중\obj\x86\Debug\TCS.ServerV2.csproj.GenerateResource.Cache
+d:\TCS\TCS.ServerV2 170727 B03수정중\obj\x86\Debug\TCS.ServerV2.exe
+d:\TCS\TCS.ServerV2 170727 B03수정중\obj\x86\Debug\TCS.ServerV2.pdb
